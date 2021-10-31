@@ -24,7 +24,7 @@ I´m Ouassim, full-stack web developer and curently a student in Data science an
 ![strlrd-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&theme=radical)
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&count_private=true&theme=gruvbox" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strlrd-29&layout=compact&count_private=true&theme=gruvbox" />
-[![strlrd-29's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=strlrd-29)](https://github.com/strlrd-29/github-readme-stats)
+![strlrd-29's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=strlrd-29)
 <a href="https://github.com/strlrd-29/google-search" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strlrd-29&repo=google-search&theme=gruvbox""></a>
 <a href="https://github.com/strlrd-29/fast-feedback" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strlrd-29&repo=fast-feedback&theme=gruvbox""></a>
 
