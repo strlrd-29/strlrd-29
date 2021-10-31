@@ -20,7 +20,9 @@ I´m Ouassim, full-stack web developer and curently a student in Data science an
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&count_private=true&theme=gruvbox" />
+
+![strlrd-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&theme=radical)
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&count_private=true&theme=gruvbox" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strlrd-29&layout=compact&count_private=true&theme=gruvbox" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=strlrd-29&theme=gruvbox" />   -->
 <a href="https://github.com/strlrd-29/google-search" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strlrd-29&repo=google-search&theme=gruvbox""></a>
