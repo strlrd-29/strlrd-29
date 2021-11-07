@@ -21,11 +21,7 @@ I´m Ouassim, full-stack web developer and curently a student in Data science an
 ## ⚡ GitHub Stats
 
 
-![strlrd-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=strlrd-29&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strlrd-29&layout=compact&count_private=true&theme=gruvbox" />
-<a href="https://github.com/strlrd-29/google-search">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=strlrd-29&repo=google-search" />
-</a>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=strlrd-29.strlrd-29)
 
