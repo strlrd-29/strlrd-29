@@ -17,6 +17,9 @@ I´m Ouassim, full-stack web developer and curently a student in Data science an
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/strlrd-29/strlrd-29/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+  
 
 ## ⚡ GitHub Stats
 
