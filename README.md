@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ghribi Ouassim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Ghribi Ouassim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height='25px' width="25px"></a>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
