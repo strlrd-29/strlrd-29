@@ -3,12 +3,10 @@
 I am a:
 - SRE [@BIGmama Technology](https://www.big-mama.io).
 - Data Science & AI noobie.
-- 
 
 Currently building [hyko.ai](https://hyko.ai)
 
-Built [yourscrib.ai](https://yourscrib.ai)
-
+Launched [yourscrib.ai](https://yourscrib.ai) last november.
 
 #### Contact Information:
 - Email: `oag@big-mama.io`
