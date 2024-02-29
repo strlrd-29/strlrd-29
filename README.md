@@ -1,12 +1,8 @@
-### Ouassim GH
+### Ouassim aka strlrd-29
 
-I am a:
-- SRE [@BIGmama Technology](https://www.big-mama.io).
-- Data Science & AI noobie.
+I know stuff and use them to build cool stuff.
 
 Currently building [hyko.ai](https://hyko.ai)
-
-Launched [yourscrib.ai](https://yourscrib.ai) last november.
 
 #### Contact Information:
 - Email: `oag@big-mama.io`
