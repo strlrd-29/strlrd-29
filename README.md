@@ -1,11 +1,10 @@
-### Ouassim aka strlrd-29
+### Hello there 👋
 
-I know stuff and use them to build cool stuff.
+Full-Stack Developer at [BIGmama Technology](https://www.big-mama.io)<br>
 
-Currently building [hyko.ai](https://hyko.ai)
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`
+- 🔨 Currently working on [Hyko.ai](https://www.hyko.ai)
 
 #### Contact Information:
 - Email: `oag@big-mama.io`
 - Twitter: `strlrd29`
-
-- ⚡ Fun fact: I use arch btw.
