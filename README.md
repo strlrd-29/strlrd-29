@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Lead Software Engineer at [BIGmama Technology](https://www.big-mama.io)<br>
+Software Engineer.
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`
 - 🔨 Currently working on [Hyko.ai](https://www.hyko.ai)
