@@ -2,9 +2,10 @@
 
 Software Engineer.
 
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`
-- 🔨 Currently working on [Hyko.ai](https://www.hyko.ai)
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.py`.
+- 🌐 Check out my personal portfolio: [ouassim.tech](https://www.ouassim.tech).
+- 🐶 I have two beautiful german sheperds that I like to spend time with.
 
 #### Contact Information:
-- Email: `oag@big-mama.io`
+- Email: `me@ouassim.tech`
 - Twitter: `strlrd29`
